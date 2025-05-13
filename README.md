@@ -5,7 +5,6 @@
 Me chamo Laura Lucas da Silva, tenho 17 anos e sou de Santana de Parnaíba. Estou cursando o ensino médio no Colégio Colaço. Atualmente, estou cursando Programação em Python. Gosto da Àrea de Desinvolvimento de Sistemas. 
 
 <p align="left">
-   
     <a href="https://github.com/README.md">
         <img 
             alt="Total de estrelas" 
