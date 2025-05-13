@@ -12,7 +12,7 @@ Me chamo Laura Lucas da Silva, tenho 17 anos e sou de Santana de Parnaíba. Esto
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https:https://github.com/lauraLucasSil">
+    <a href="//github.com/lauraLucasSil/lauraLucasSil?tab=readme-ov-file">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
