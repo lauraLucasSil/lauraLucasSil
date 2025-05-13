@@ -6,7 +6,7 @@ Me chamo Laura Lucas da Silva, tenho 17 anos e sou de Santana de Parnaíba. Esto
 
 <p align="left">
    
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/README.md">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
