@@ -25,7 +25,6 @@ Me chamo Laura Lucas da Silva, tenho 17 anos e sou de Santana de Parnaíba. Esto
 
 ### 🤖 Linguagens e Tecnologias
 
-/>
 <img 
     align="left" 
     alt="Python" 
