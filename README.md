@@ -9,15 +9,7 @@ Me chamo Laura Lucas da Silva, tenho 17 anos e sou de Santana de Parnaíba. Esto
   <a href = "mailto:lauralucassil30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laura-lucas-4a979734a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/pauloVarelo/pauloVarelo/blob/output/github-contribution-grid-snake.svg)
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  ![Snake animation](https://github.com/pauloVarelo/pauloVarelo/blob/output/github-contribution-grid-snake.svg
 
 </p>
 <picture>
