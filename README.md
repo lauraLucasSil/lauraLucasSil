@@ -11,13 +11,6 @@ Me chamo Laura Lucas da Silva, tenho 17 anos e sou de Santana de Parnaíba. Esto
  
   ![Snake animation](https://github.com/pauloVarelo/pauloVarelo/blob/output/github-contribution-grid-snake.svg)
 
----
-
-/>
-
-<br/>
-<br/>
-
 
 <img 
       align="left" 
