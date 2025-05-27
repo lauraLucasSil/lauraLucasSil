@@ -2,19 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Laura Lucas da Silva, tenho 17 anos e sou de Santana de Parnaíba. Estou cursando o ensino médio no Colégio Colaço. Atualmente, estou cursando Programação em Python. Gosto da Àrea de Desinvolvimento de Sistemas. 
-
-    </a>
-    
-    <a href="https://github.com/lauraLucasSil">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/lauraLucasSil?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
+Me chamo Laura Lucas da Silva, tenho 17 anos e sou de Santana de Parnaíba. Estou cursando o ensino médio no Colégio Colaço. Atualmente, estou cursando Programação em Python. Gosto da Àrea de Desinvolvimento de Sistemas.
 
 <div> 
   <a href="https://instagram.com/lauralucassil_78" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
